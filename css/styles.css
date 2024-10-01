@@ -826,6 +826,7 @@ input:checked+.privacy-label .span-privacy-icon {
 
 .privacy-link {
     color: #4d5ae5;
+    text-decoration: underline;
 }
 
 .send-button {
